@@ -1,22 +1,22 @@
 ## 👋 Hi, I'm Khiel
 
-I’m currently exploring the IT field to figure out which specialization fits me best, while building a strong foundation across the core areas every IT professional should understand.
+🎓 I’m currently a 2nd year BSIT student at Quezon City University, exploring different paths within IT to identify the specialization that best fits me while building a strong foundation across core areas every IT professional should understand.
 
-Right now, my focus is on learning the fundamentals of:
+📚 I’m actively learning and practicing:
 
-Programming and coding
-Software and operating systems
-Computer hardware and system components
-Networking basics and troubleshooting
-General IT support tasks (diagnosing issues, maintaining systems, assisting users)
+* Programming and coding fundamentals
+* Software and operating systems (Windows, Linux basics)
+* Computer hardware and system components
+* Networking concepts (IP, DNS, troubleshooting)
+* General IT support tasks (diagnosing issues, maintaining systems, assisting users)
 
-This GitHub acts as a record of my progress. I use it to document what I learn, practice what I study, and track how my understanding improves over time.
+🛠 This GitHub serves as my learning journal and portfolio, where I document:
 
-You’ll find:
+* Notes from what I study
+* Hands-on exercises and labs
+* Step-by-step troubleshooting processes
+* Small projects and practical applications
 
-Notes and simplified explanations of concepts
-Practical exercises and mini-projects
-Troubleshooting workflows and breakdowns
-Experiments as I explore different areas of IT
+🚀 Goal: To discover the right IT specialization while developing the skills needed to become a reliable and well-rounded IT professional.
 
-My goal is to develop a well-rounded skill set first—similar to what a typical IT staff handles—before committing to a specific specialization.
+📈 Currently focused on improving consistency, strengthening fundamentals, and gaining real-world problem-solving experience.
