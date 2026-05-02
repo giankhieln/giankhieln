@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khiel
+# 👋 Hi, I'm Gian
 
 🎓 2nd Year BSIT student at Quezon City University
 
