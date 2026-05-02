@@ -1,22 +1,36 @@
-## 👋 Hi, I'm Khiel
+# 👋 Hi, I'm Khiel
 
-🎓 I’m currently a 2nd year BSIT student at Quezon City University, exploring different paths within IT to identify the specialization that best fits me while building a strong foundation across core areas every IT professional should understand.
+🎓 2nd Year BSIT Student at **Quezon City University**
 
-📚 I’m actively learning and practicing:
+---
 
-* Programming and coding fundamentals
-* Software and operating systems (Windows, Linux basics)
-* Computer hardware and system components
-* Networking concepts (IP, DNS, troubleshooting)
-* General IT support tasks (diagnosing issues, maintaining systems, assisting users)
+## 🎯 About Me
+I’m currently exploring the IT field to identify the specialization that fits me best, while building a strong foundation across the core areas every IT professional should understand.
 
-🛠 This GitHub serves as my learning journal and portfolio, where I document:
+---
 
-* Notes from what I study
-* Hands-on exercises and labs
-* Step-by-step troubleshooting processes
-* Small projects and practical applications
+## 📚 What I’m Focused On
+- 💻 Programming and coding fundamentals  
+- 🖥️ Software and operating systems  
+- 🔧 Computer hardware and system components  
+- 🌐 Networking concepts and troubleshooting  
+- 🛠️ General IT support and problem-solving  
 
-🚀 Goal: To discover the right IT specialization while developing the skills needed to become a reliable and well-rounded IT professional.
+---
 
-📈 Currently focused on improving consistency, strengthening fundamentals, and gaining real-world problem-solving experience.
+## 🚀 Goals
+I aim to continuously improve my technical skills and contribute by building practical, useful systems that solve real-world problems.
+
+---
+
+## 📌 Current Direction
+- Strengthening core IT knowledge  
+- Gaining hands-on experience through projects  
+- Exploring different IT roles to find my specialization  
+
+---
+
+## 📫 Connect With Me
+*(You can add your social links here later)*
+
+---
