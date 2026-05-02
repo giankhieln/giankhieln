@@ -1,22 +1,22 @@
 ## 👋 Hi, I'm Khiel
 
-🎯 Currently pursuing the **IT Support path**, focusing on building strong foundations in troubleshooting, systems, and networking.
+I’m currently exploring the IT field to figure out which specialization fits me best, while building a strong foundation across the core areas every IT professional should understand.
 
-📚 I’m actively learning and practicing:
+Right now, my focus is on learning the fundamentals of:
 
-* Computer hardware and system fundamentals
-* Operating systems (Windows, Linux basics)
-* Networking concepts (IP, DNS, troubleshooting)
-* Basic scripting and automation
-* Technical documentation and problem-solving
+Programming and coding
+Software and operating systems
+Computer hardware and system components
+Networking basics and troubleshooting
+General IT support tasks (diagnosing issues, maintaining systems, assisting users)
 
-🛠 This GitHub serves as my **learning journal and portfolio**, where I document:
+This GitHub acts as a record of my progress. I use it to document what I learn, practice what I study, and track how my understanding improves over time.
 
-* Notes from what I study
-* Hands-on exercises and labs
-* Step-by-step troubleshooting processes
-* Small projects and real-world practice
+You’ll find:
 
-🚀 Goal: To become a reliable IT Support Specialist capable of diagnosing issues, supporting users, and maintaining systems efficiently.
+Notes and simplified explanations of concepts
+Practical exercises and mini-projects
+Troubleshooting workflows and breakdowns
+Experiments as I explore different areas of IT
 
-📈 Currently improving consistency, documentation skills, and real-world troubleshooting experience.
+My goal is to develop a well-rounded skill set first—similar to what a typical IT staff handles—before committing to a specific specialization.
